@@ -1,0 +1,21 @@
+body{
+    background-color: #3E3E3E;
+    font-family: "Inknut Antiqua", serif;
+}
+header,footer{
+    text-align: center;
+    width: 400px;
+    margin: 30px auto 0px auto;
+}
+main{
+    width: 400px;
+    margin: 30px auto 0px auto;
+}
+
+input{
+    font-family: "Inknut Antiqua", serif;
+}
+
+select{
+    font-family: "Inknut Antiqua", serif;
+}
